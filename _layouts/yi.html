@@ -27,7 +27,7 @@ layout: default
 				<div class="clearfix">
 					<div class="sa_cp">本文基于“<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh" rel="license external nofollow" class="sa_blue"><strong>CC BY-NC-SA 3.0</strong></a>”发布，仅用于学习和交流目的。非商业转载请注明作者、出处，并保留文章的完整链接。</div>
 					<ul class="sa_source">
-						<li>译文来源：<span class="sa_blue">译言精选</span></li>
+						<li>译文来源：<span class="sa_blue">{% if page.yi_yan %}{{ page.yi_yan }}{% else %}译言精选</span></li>
 						<li>译文标题：<span class="sa_blue">{{ page.title | escape }}</span></li>
 						<li>译文地址：<a class="sa_blue" rel="next" href="{{ page.yi_url }}" title="{{ page.title | escape }}">{{ page.yi_url }}</a></li>
 					</ul>

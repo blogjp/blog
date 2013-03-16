@@ -1,10 +1,11 @@
 ---
 layout: yi
 title: 如何把你的谷歌Nexus手机或平板刷成Ubuntu Touch OS操作系统
-tags: ['Nexus', 'Ubuntu']
+tags: ['Nexus', 'Ubuntu Touch OS']
 description: Ubuntu Touch手机操作系统预览版已经对外发布，可以从官方网站上下载。这个Ubuntu Touch系统可以成功的安装到谷歌的Nexus安卓设备上。早期预览版并不能让你的手机设备具有所有的功能，但一些基本的功能都有。你可以打电话，收发短信，连接无线网络，使用前置和后置摄像头，以及使用shell和一些核心应用。
 yi_author: Aqee
 yi_toa: Aamir Usman
+yi_yan: 外刊IT评论网
 yi_url: http://www.aqee.net/ubuntu-tguide-to-install-ubuntu-touch-os-on-nexus-android-devices/
 ---
 
