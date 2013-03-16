@@ -1,0 +1,16 @@
+auto: true
+markdown: rdiscount
+permalink: /:title
+production_url: http://blog.kooker.jp
+pygments: true
+paginate: 10
+
+title: Hi kooker
+tagline: 代码如诗，键盘如歌！
+author:
+  name: kooker
+  real_name: 马来
+  email: admin@kooker.jp
+  info: 已在而立之年
+  description: 胸无大志，悲观冷血，不苟言笑，聪明好学
+duoshuo_short_name : blogkooker
