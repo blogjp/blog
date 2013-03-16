@@ -25,7 +25,7 @@ Ubuntu Touch手机操作系统预览版已经对外发布，可以从官方网�
 *   解锁并设置好你的Nexus设备
 *   安装Ubuntu Touch OS
 
-####第一步：安装刷机软件程序
+#### 第一步：安装刷机软件程序
 
 下面的步骤是说明如何将刷机程序安装到你的桌面电脑上。
 
@@ -38,7 +38,7 @@ Ubuntu Touch手机操作系统预览版已经对外发布，可以从官方网�
 	sudo apt-get update
 	sudo apt-get install phablet-tools android-tools-adb android-tools-fastboot
 
-####第二步：解锁并设置好你的Nexus设备
+#### 第二步：解锁并设置好你的Nexus设备
 
 这一步可以分成两小步。
 
@@ -72,7 +72,7 @@ nexus-4-debugging
 
 现在把你的手机/平板连接上电脑。会弹出一个信息框。接受host key。
 
-####第三步：刷Ubuntu Touch系统
+#### 第三步：刷Ubuntu Touch系统
 
 在电脑上打开命令窗口，运行如下命令：
 
